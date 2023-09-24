@@ -1,6 +1,7 @@
 Heyyyyy
 It's shruthiii
 hello all this is chitra 
+<<<<<<< HEAD
 hello its  siva
 helloo..
-Okkk
+Okk.
